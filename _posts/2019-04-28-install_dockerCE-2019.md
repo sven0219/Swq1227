@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      install docker ce in centos
+title:      Centos 安装 dockerCE
 subtitle:   docker
 date:       2019-04-28
 author:     swq

@@ -3,9 +3,10 @@ title: Youth Blog
 SEOTitle:  Youth Blog
 header-img: img/post-bg-keybord.jpg
 email: swq1227@gmail.com
+company: 上海亘岩网络有限公司
 description: "Every failure is leading towards success."
 keyword: "Youth, Youth Blog, Youth, swq, 沈文强, iOS, Apple, iPhone"
-url: "https://Swq1227.github.io"          # your host, for absolute URL
+url: "https://www.52ynn.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Swq1227/Swq1227.github.io.git" # you code repository
 
